@@ -1,0 +1,77 @@
+[
+  {
+    "rank": 1,
+    "template": "dovetail",
+    "tab_depth": 1.8,
+    "tab_width": 5.0,
+    "ramp": 0.5,
+    "asymmetry": 0.0,
+    "lock_strength_um": 0.955,
+    "approach_window_um": 2.55,
+    "score": 3.787,
+    "files": [
+      "candidate_01_pair4.svg",
+      "candidate_01_selfY.svg"
+    ]
+  },
+  {
+    "rank": 2,
+    "template": "single_tooth",
+    "tab_depth": 1.8,
+    "tab_width": 4.0,
+    "ramp": 0.5,
+    "asymmetry": 0.0,
+    "lock_strength_um": 1.74,
+    "approach_window_um": 0.9,
+    "score": 3.004,
+    "files": [
+      "candidate_02_pair4.svg",
+      "candidate_02_selfY.svg"
+    ]
+  },
+  {
+    "rank": 3,
+    "template": "double_tooth_asym",
+    "tab_depth": 1.8,
+    "tab_width": 3.0,
+    "ramp": 0.5,
+    "asymmetry": 0.6,
+    "lock_strength_um": 1.737,
+    "approach_window_um": 0.9,
+    "score": 3.0,
+    "files": [
+      "candidate_03_pair4.svg",
+      "candidate_03_selfY.svg"
+    ]
+  },
+  {
+    "rank": 4,
+    "template": "dovetail",
+    "tab_depth": 1.6,
+    "tab_width": 5.0,
+    "ramp": 0.5,
+    "asymmetry": 0.0,
+    "lock_strength_um": 0.849,
+    "approach_window_um": 2.55,
+    "score": 3.643,
+    "files": [
+      "candidate_04_pair4.svg",
+      "candidate_04_selfY.svg"
+    ]
+  },
+  {
+    "rank": 5,
+    "template": "dovetail",
+    "tab_depth": 1.8,
+    "tab_width": 5.0,
+    "ramp": 0.9,
+    "asymmetry": 0.0,
+    "lock_strength_um": 0.812,
+    "approach_window_um": 2.55,
+    "score": 3.594,
+    "files": [
+      "candidate_05_pair4.svg",
+      "candidate_05_selfY.svg"
+    ]
+  }
+]
